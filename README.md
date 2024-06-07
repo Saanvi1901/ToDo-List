@@ -14,4 +14,4 @@ Technologies Used
 
 HTML: Structure of the web application.
 CSS: Styling of the application for a visually appealing user interface.
-JavaScript: Functionality for adding, editing, deleting, and marking tasks as done, as well as saving and loading tasks from local storage.# ToDo-List
+JavaScript: Functionality for adding, editing, deleting, and marking tasks as done, as well as saving and loading tasks from local storage.
